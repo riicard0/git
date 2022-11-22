@@ -1,3 +1,4 @@
 teste no git.
 entendendo o head.
 Esta linha foi modificada no ramo Master
+Esta linha foi modificada no ramo teste.
